@@ -131,7 +131,7 @@ body, html {
     padding: 20px;
     margin-top: 40px;
     color: #373737;
-    background-image: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url('/Logo\ cropped\ without\ tagline.png');
+    background-image: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url('Logo\ cropped\ without\ tagline.png');
     background-repeat: no-repeat;
     background-position: center center;
     background-size:contain;
@@ -151,7 +151,7 @@ body, html {
     align-items: center;
     grid-template-rows: 1fr 1fr 1fr;
     gap:none;
-    background-image: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url('/Logo\ cropped\ without\ tagline.png');
+    background-image: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url('Logo\ cropped\ without\ tagline.png');
     background-repeat: no-repeat;
     background-position: center center;
     background-size:contain;
@@ -215,7 +215,7 @@ body, html {
     height: fit-content;
     width: 90%;
     margin-left: 60px;  
-    background-image: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url('/Logo\ cropped\ without\ tagline.png');
+    background-image: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url('Logo\ cropped\ without\ tagline.png');
     background-repeat: no-repeat;
     background-position: center center;
     background-size:contain;
@@ -567,7 +567,7 @@ th {
 .product-container,
 .rental,
 .se03-container{
-    background-image: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), url('/Logo\ cropped\ without\ tagline.png');
+    background-image: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), url('Logo\ cropped\ without\ tagline.png');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: contain;
